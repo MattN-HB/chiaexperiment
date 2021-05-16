@@ -11,7 +11,7 @@ Comparing performance of different chia blockchain environments to determine mos
 * Time to Farm and output:
 ### Rasberry Pi4
 * [Link How To](https://www.tomshardware.com/how-to/raspberry-pi-chia-coin)
-* What you need?
+    * What you need?
         - Raspberry Pi 4 4GB
         - Raspberry pi case, perhaps one of the best Raspberry Pi cases, with cooling
         - An external USB storage drive or SSD / HDD with USB 3.0 caddy.
