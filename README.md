@@ -1,7 +1,7 @@
-# chiae Coin Optimization Experiment
+# Chia Coin Optimization Experiment
 Comparing performance of different chia blockchain environments to determine most efficient mining setup
 ## Analysis between Setups
--[Chia Github Link](https://github.com/Chia-Network/chia-blockchain)
+*[Chia Github Link](https://github.com/Chia-Network/chia-blockchain)
 ### Windows Surface Pro 
 -[Install Link](https://github.com/Chia-Network/chia-blockchain/wiki/Quick-Start-Guide)
 -CPU: 87% across four cores
