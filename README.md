@@ -11,9 +11,9 @@ Comparing performance of different chia blockchain environments to determine mos
 * Time to Farm and output:
 ### Windows Server 2019 t3a.large 500gb general purpose hdd
 * [Install Link](https://github.com/Chia-Network/chia-blockchain/wiki/Quick-Start-Guide)
-* CPU: 
-* Memory: 
-* Up Speed: 
+* CPU: 2
+* Memory: 3.5 of 8gib (42%)
+* Up Speed: 800mbps and down 388mbps
 * Time to Create Plot: 
 * Time to Farm and output:
 * Cloud Cost / Month: $???
