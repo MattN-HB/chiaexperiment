@@ -10,7 +10,7 @@ Comparing performance of different chia blockchain environments to determine mos
 * CPU: 8
 * Memory: 3.5 of 32gib (42%)
 * Up Speed: 800mbps and down 388mbps
-* Time to Create Plot: ?
+* Time to Create Plot: ? (Start 5/17 2145EDT; End)
 * Time to Farm and output: NA
 * Cloud Cost / Month: $278
 * Coin Return / Month:NA
