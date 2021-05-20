@@ -2,6 +2,7 @@
 Comparing performance of different chia blockchain environments to determine most efficient mining setup
 ## Analysis between Setups
 * [Chia Github Link](https://github.com/Chia-Network/chia-blockchain)
+* [Chia Explorer](https://www.chiaexplorer.com/)
 ### No more plotting run smallest connect to Cold HDD(Case 3)
 ### Windows Server 2019 (Case 2)
 * Ec2 instance size: t2x.2large 
