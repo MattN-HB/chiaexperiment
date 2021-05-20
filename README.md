@@ -17,15 +17,15 @@ Comparing performance of different chia blockchain environments to determine mos
 * Net Profit: NA
 ### Windows Server 2019 (Case 2)
 * Ec2 instance size: t2x.2large 
-* Volume 1: 700gb general purpose hdd (gp2) ...3 plots parrell
+* Volume 1: 1TB general purpose hdd (gp2) ...4 plots parrell
 * Volume 2: 2TB Cold HDD
 * CPU at 1 plot : 8 (26%)
-* CPU at 2/3 plot parrel : (81%)
-* Memory: 5.4gib 32gib (33%)
+* CPU at 4 plot parrel : (95%)
+* Memory: 5.4gib 32gib (50%)
 * Up Speed: 800mbps and down 388mbps
-* Time to Create Plot: 6hr (single plot) 2plots in 8hr (barely had enough space by 1gb gap)
-* Time to Farm and output: 10 plots = 
-* Cloud Cost / Month: $330
+* Time to Create Plot: 6hr (single plot) 2plots in 8hr, 4 plot 8hr ish,
+* Time to Farm and output: 10 plots = ;7 plots = 6 years 
+* Cloud Cost / Month: $330 
 * Coin Return / Month:NA
 * Net Profit: NA
 * [Install Link](https://github.com/Chia-Network/chia-blockchain/wiki/Quick-Start-Guide)
