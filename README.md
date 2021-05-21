@@ -11,7 +11,7 @@ Comparing performance of different chia blockchain environments to determine mos
 * Memory: ??
 * Up Speed: 800mbps and down 388mbps
 * Time to Create Plot: ??
-* Time to Farm and output: 10 plots = 
+* Time to win: ??
 * Cloud Cost / Month: ??
 * Coin Return / Month:NA
 * Net Profit: NA
@@ -24,7 +24,7 @@ Comparing performance of different chia blockchain environments to determine mos
 * Memory: 5.4gib 32gib (50%)
 * Up Speed: 800mbps and down 388mbps
 * Time to Create Plot: 6hr (single plot) 2plots in 8hr, 4 plot 8hr ish,
-* Time to Farm and output: 10 plots = ;7 plots = 6 years; 12 plots = 4years
+* Estimated time to win: 10 plots = ;7 plots = 6 years; 12 plots = 4years
 * Cloud Cost / Month: $330 
 * Coin Return / Month:NA
 * Net Profit: NA
