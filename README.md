@@ -1,9 +1,9 @@
 # Chia Coin Optimization Experiment
 Comparing performance of different chia blockchain environments to determine most efficient mining setup
-## Analysis between Setups
+## Resources
 * [Chia Github Link](https://github.com/Chia-Network/chia-blockchain)
 * [Chia Explorer](https://www.chiaexplorer.com/)
-### No more plotting run smallest connect to Cold HDD(Case 3)
+### Case 3: No more plotting run smallest connect to Cold HDD(Case 3)
 * Ec2 instance size: t3a.small
 * Volume 1: 30gb general purpose hdd (gp2) $3/month
 * Volume 2: 6TB Cold HDD
@@ -16,7 +16,7 @@ Comparing performance of different chia blockchain environments to determine mos
 * Coin Return / Month:NA
 * Net Profit: NA
 * When attach volume don't intiliaze/reformat you will wipe out your data stop at step 3>>! [EBS Volume Available for Use Windows Tutorial](https://docs.aws.amazon.com/AWSEC2/latest/WindowsGuide/ebs-using-volumes.html)
-### Windows Server 2019 (Case 2)
+### Case 2: Windows Server 2019 
 * Ec2 instance size: t2x.2large 
 * Volume 1: 1TB general purpose hdd (gp2) ...4 plots parrell
 * Volume 2: 2TB Cold HDD
@@ -31,7 +31,7 @@ Comparing performance of different chia blockchain environments to determine mos
 * Net Profit: NA
 * [Install Link](https://github.com/Chia-Network/chia-blockchain/wiki/Quick-Start-Guide)
 * [EBS Volume Available for Use Windows Tutorial](https://docs.aws.amazon.com/AWSEC2/latest/WindowsGuide/ebs-using-volumes.html)
-### Windows Server 2019  (Case 1)
+### Case 1: Windows Server 2019  
 * [Install Link](https://github.com/Chia-Network/chia-blockchain/wiki/Quick-Start-Guide)
 * Ec2 instance size: t3a.large
 * Volume 1: 500gb general purpose hdd (gp2)
@@ -43,14 +43,14 @@ Comparing performance of different chia blockchain environments to determine mos
 * Cloud Cost / Month: $150
 * Coin Return / Month:NA
 * Net Profit: NA
-### Windows Surface Pro (Case 0) 
+### Case 0: Windows Surface Pro  
 * [Install Link](https://github.com/Chia-Network/chia-blockchain/wiki/Quick-Start-Guide)
 * CPU: 87% across four cores
 * Memory: 5gb/8gb (70%)
 * Up Speed: 40mbs
 * Time to Create Plot: 8hr ?? **RAN out space 100gb need 235 for one plot**
 * Time to Farm and output:
-### Rasberry Pi4 (Case TBD)
+### Case TBD: Rasberry Pi4 
 * [Link How To](https://www.tomshardware.com/how-to/raspberry-pi-chia-coin)
     * What you need?
         - Raspberry Pi 4 4GB
