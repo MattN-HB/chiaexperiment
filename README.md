@@ -3,7 +3,7 @@ Comparing performance of different chia blockchain environments to determine mos
 ## Resources
 * [Chia Github Link](https://github.com/Chia-Network/chia-blockchain)
 * [Chia Explorer](https://www.chiaexplorer.com/)
-### Case 3: No more plotting run smallest connect to Cold HDD(Case 3)
+### Case 3: No more plotting run smallest connect to Cold HDD
 * Ec2 instance size: t3a.small
 * Volume 1: 30gb general purpose hdd (gp2) $3/month
 * Volume 2: 6TB Cold HDD
