@@ -15,6 +15,7 @@ Comparing performance of different chia blockchain environments to determine mos
 * Cloud Cost / Month: $117 (22 cpu +3 ebs+ 6TB cold hdd 92)
 * Coin Return / Month:NA
 * Net Profit: NA
+* When attach volume don't intiliaze/reformat you will wipe out your data stop at step 3>>! [EBS Volume Available for Use Windows Tutorial](https://docs.aws.amazon.com/AWSEC2/latest/WindowsGuide/ebs-using-volumes.html)
 ### Windows Server 2019 (Case 2)
 * Ec2 instance size: t2x.2large 
 * Volume 1: 1TB general purpose hdd (gp2) ...4 plots parrell
