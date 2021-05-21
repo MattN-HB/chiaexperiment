@@ -6,13 +6,13 @@ Comparing performance of different chia blockchain environments to determine mos
 ### No more plotting run smallest connect to Cold HDD(Case 3)
 * Ec2 instance size: t3a.small
 * Volume 1: 30gb general purpose hdd (gp2) $3/month
-* Volume 2: 2TB Cold HDD
+* Volume 2: 6TB Cold HDD
 * CPU at 1 plot : 2
 * Memory: 2
 * Up Speed: 800mbps and down 388mbps
 * Time to Create Plot: NA
 * Time to win: ??
-* Cloud Cost / Month: $71 (22 cpu +3 ebs+ 3TB cold hdd 46.08)
+* Cloud Cost / Month: $117 (22 cpu +3 ebs+ 6TB cold hdd 92)
 * Coin Return / Month:NA
 * Net Profit: NA
 ### Windows Server 2019 (Case 2)
