@@ -16,6 +16,7 @@ Comparing performance of different chia blockchain environments to determine mos
 * Coin Return / Month:NA
 * Net Profit: NA
 * When attach volume don't intiliaze/reformat you will wipe out your data stop at step 3>>! [EBS Volume Available for Use Windows Tutorial](https://docs.aws.amazon.com/AWSEC2/latest/WindowsGuide/ebs-using-volumes.html)
+   *Important note about 2TB MTB drives for your cold HDD![image](https://user-images.githubusercontent.com/44328319/119240571-77e76b00-bb1e-11eb-9343-88b5ef94fcfe.png)
 ### Case 2: Windows Server 2019 
 * Ec2 instance size: t2x.2large 
 * Volume 1: 1TB general purpose hdd (gp2) ...4 plots parrell
