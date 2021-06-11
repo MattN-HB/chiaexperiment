@@ -7,13 +7,13 @@ Comparing performance of different chia blockchain environments to determine mos
 ### Case 3: No more plotting run smallest connect to Cold HDD
 * Ec2 instance size: t3a.small
 * Volume 1: 30gb general purpose hdd (gp2) $3/month
-* Volume 2: 6TB Cold HDD
+* Volume 2: 8TB Cold HDD
 * CPU at 1 plot : 2
 * Memory: 2
 * Up Speed: 800mbps and down 388mbps
 * Time to Create Plot: NA
 * Time to win: ??
-* Cloud Cost / Month: $117 (22 cpu +3 ebs+ 6TB cold hdd 92)
+* Cloud Cost / Month: $150 (22 cpu +3 ebs+ 8TB cold hdd 122)
 * Coin Return / Month:NA
 * Net Profit: NA
 * When attach "existing with data" volume don't intiliaze/reformat you will wipe out your data stop at step 3>>! [EBS Volume Available for Use Windows Tutorial](https://docs.aws.amazon.com/AWSEC2/latest/WindowsGuide/ebs-using-volumes.html)
