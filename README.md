@@ -14,7 +14,7 @@ Comparing performance of different chia blockchain environments to determine mos
 * Up Speed: 800mbps and down 388mbps
 * Time to Create Plot: NA
 * Time to win: 1yr estimate
-* Cloud Cost / Month: $150 (22 cpu +3 ebs+ 8TB cold hdd 122)
+* Cloud Cost / Month: $150 ($22 instance size +$3 ebs base+ $8TB cold hdd 122)
 * Coin Return / Month: TBD on time to win and present value of chia coin to dollar
 * Net Profit: TBD
 * When attach "existing with data" volume don't intiliaze/reformat you will wipe out your data stop at step 3>>! [EBS Volume Available for Use Windows Tutorial](https://docs.aws.amazon.com/AWSEC2/latest/WindowsGuide/ebs-using-volumes.html)
