@@ -4,18 +4,19 @@ Comparing performance of different chia blockchain environments to determine mos
 * [Chia Github Link](https://github.com/Chia-Network/chia-blockchain)
 * [Chia Explorer](https://www.chiaexplorer.com/)
 * [Issues connecting to wallet](https://arstech.net/how-to-fix-chia-connecting-to-wallet-problem/)
+* [Blaze Cloud Storage experiment](https://www.backblaze.com/blog/experimenting-cloud-storage-for-chia-mining/)
 ### Case 3: No more plotting run smallest connect to Cold HDD
 * Ec2 instance size: t3a.small
 * Volume 1: 30gb general purpose hdd (gp2) $3/month
-* Volume 2: 8TB Cold HDD
+* Volume 2: 8TB Cold HDD ($122/month)
 * CPU at 1 plot : 2
 * Memory: 2
 * Up Speed: 800mbps and down 388mbps
 * Time to Create Plot: NA
-* Time to win: ??
+* Time to win: 1yr estimate
 * Cloud Cost / Month: $150 (22 cpu +3 ebs+ 8TB cold hdd 122)
-* Coin Return / Month:NA
-* Net Profit: NA
+* Coin Return / Month: TBD on time to win and present value of chia coin to dollar
+* Net Profit: TBD
 * When attach "existing with data" volume don't intiliaze/reformat you will wipe out your data stop at step 3>>! [EBS Volume Available for Use Windows Tutorial](https://docs.aws.amazon.com/AWSEC2/latest/WindowsGuide/ebs-using-volumes.html)
     * If new drive for first time FORMAT IN GPT!!!!!
     * Important note about 2TB MTB drives for your cold HDD![image](https://user-images.githubusercontent.com/44328319/119240571-77e76b00-bb1e-11eb-9343-88b5ef94fcfe.png)
@@ -34,6 +35,9 @@ Comparing performance of different chia blockchain environments to determine mos
 * Net Profit: NA
 * [Install Link](https://github.com/Chia-Network/chia-blockchain/wiki/Quick-Start-Guide)
 * [EBS Volume Available for Use Windows Tutorial](https://docs.aws.amazon.com/AWSEC2/latest/WindowsGuide/ebs-using-volumes.html)
+* When attach "existing with data" volume don't intiliaze/reformat you will wipe out your data stop at step 3>>! [EBS Volume Available for Use Windows Tutorial](https://docs.aws.amazon.com/AWSEC2/latest/WindowsGuide/ebs-using-volumes.html)
+    * If new drive for first time FORMAT IN GPT!!!!!
+    * Important note about 2TB MTB drives for your cold HDD![image](https://user-images.githubusercontent.com/44328319/119240571-77e76b00-bb1e-11eb-
 ### Case 1: Windows Server 2019  
 * [Install Link](https://github.com/Chia-Network/chia-blockchain/wiki/Quick-Start-Guide)
 * Ec2 instance size: t3a.large
