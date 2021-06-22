@@ -3,6 +3,7 @@ Comparing performance of different chia blockchain environments to determine mos
 ## Resources
 * [Chia Github Link](https://github.com/Chia-Network/chia-blockchain)
 * [Chia Explorer](https://www.chiaexplorer.com/)
+* [Chia Mining FAQs](https://github.com/Chia-Network/chia-blockchain/wiki/FAQ#what-is-the-plot-filter-and-why-didnt-my-plot-pass-it)
 * [Issues connecting to wallet](https://arstech.net/how-to-fix-chia-connecting-to-wallet-problem/)
 * [Blaze Cloud Storage experiment](https://www.backblaze.com/blog/experimenting-cloud-storage-for-chia-mining/)
 ### Case 3: No more plotting run smallest connect to Cold HDD
